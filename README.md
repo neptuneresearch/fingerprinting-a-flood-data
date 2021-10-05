@@ -4,6 +4,8 @@ was extracted from a full node into a [PostgreSQL](https://www.postgresql.org) [
 
 All data provided here is transparent on the blockchain and visible from a block explorer.
 
+[Download the data sets from the Releases section of this GitHub Repository.](https://github.com/neptuneresearch/fingerprinting-a-flood-data/releases/tag/v1.0)
+
 
 # Table of Contents
 - [Data Overview](#Data-Overview)
